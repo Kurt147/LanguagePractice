@@ -1,0 +1,32 @@
+D:\Kurt\Documents\Visual Studio 2013\Projects\VertaalProgramma\VertaalProgramma\bin\Debug\VertaalProgramma.exe.config
+D:\Kurt\Documents\Visual Studio 2013\Projects\VertaalProgramma\VertaalProgramma\bin\Debug\VertaalProgramma.exe
+D:\Kurt\Documents\Visual Studio 2013\Projects\VertaalProgramma\VertaalProgramma\bin\Debug\VertaalProgramma.pdb
+D:\Kurt\Documents\Visual Studio 2013\Projects\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.csprojResolveAssemblyReference.cache
+D:\Kurt\Documents\Visual Studio 2013\Projects\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.frmMain.resources
+D:\Kurt\Documents\Visual Studio 2013\Projects\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.Properties.Resources.resources
+D:\Kurt\Documents\Visual Studio 2013\Projects\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.csproj.GenerateResource.Cache
+D:\Kurt\Documents\Visual Studio 2013\Projects\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.exe
+D:\Kurt\Documents\Visual Studio 2013\Projects\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.pdb
+D:\Kurt\Documents\Visual Studio 2013\Projects\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.AddWords.resources
+D:\Kurt\Documents\Visual Studio 2013\Projects\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.QandA.resources
+D:\Kurt\Documents\Visual Studio 2013\Projects\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.MultipleChoice.resources
+D:\Kurt\Documents\Visual Studio 2013\Projects\VertaalProgramma\VertaalProgramma\bin\Debug\VertaalProgramma.exe.manifest
+D:\Kurt\Documents\Visual Studio 2013\Projects\VertaalProgramma\VertaalProgramma\bin\Debug\VertaalProgramma.application
+D:\Kurt\Documents\Visual Studio 2013\Projects\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.exe.manifest
+D:\Kurt\Documents\Visual Studio 2013\Projects\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.application
+D:\VertaalProgramma\VertaalProgramma\bin\Debug\VertaalProgramma.exe.config
+D:\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.exe
+D:\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.pdb
+D:\VertaalProgramma\VertaalProgramma\bin\Debug\VertaalProgramma.exe.manifest
+D:\VertaalProgramma\VertaalProgramma\bin\Debug\VertaalProgramma.application
+D:\VertaalProgramma\VertaalProgramma\bin\Debug\VertaalProgramma.exe
+D:\VertaalProgramma\VertaalProgramma\bin\Debug\VertaalProgramma.pdb
+D:\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.csprojResolveAssemblyReference.cache
+D:\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.AddWords.resources
+D:\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.frmMain.resources
+D:\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.MultipleChoice.resources
+D:\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.Properties.Resources.resources
+D:\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.QandA.resources
+D:\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.csproj.GenerateResource.Cache
+D:\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.exe.manifest
+D:\VertaalProgramma\VertaalProgramma\obj\Debug\VertaalProgramma.application
